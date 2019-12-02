@@ -1,4 +1,8 @@
-# ELPProject
+# Fat
+# A game made in the UCM by Group 12
+
+Playabñle at Game Jolt: https://gamejolt.com/games/fatelp12
+
 Here you can find the project as well as links to the assets we used.
 
 Distribution and Notices:
