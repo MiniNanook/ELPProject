@@ -1,7 +1,7 @@
 # Fat
 # A game made in the UCM by Group 12
 
-Playable at Game Jolt: https://gamejolt.com/games/fatelp12
+Playable at Game Jolt: https://gamejolt.com/games/fatelp12/453437
 
 Here you can find the project as well as links to the assets we used.
 
