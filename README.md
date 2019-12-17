@@ -9,7 +9,7 @@ Distribution and Notices:
 
 This project is developed under certain conditions, which you MUST take into account before copying / distributing.
 
-#Game Assets Not Included
+# Game Assets Not Included
 
 All the game assets used are under the protection of the designer, who does not allow the redistribution of such assets. Any purchase must be made here: https://livingtheindie.itch.io/pixel-house-set
 
