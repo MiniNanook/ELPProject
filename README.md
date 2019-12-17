@@ -13,4 +13,6 @@ This project is developed under certain conditions, which you MUST take into acc
 
 All the game assets used are under the protection of the designer, who does not allow the redistribution of such assets. Any purchase must be made here: https://livingtheindie.itch.io/pixel-house-set
 
+License of the assets: https://www.gamedevmarket.net/terms-conditions/#pro-licence
+
 Any redistribution of the code you find here is allowed, under the same conditions it was originally published.
