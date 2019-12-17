@@ -122,7 +122,7 @@ if (choice == "C") {
     text[16] = "&gt; [MESSAGE] Wendy: What the hell are you saying Kevin?";
     text[17] = "&gt; [MESSAGE] Kevin: HAHAHAHA";
     text[18] = "&gt; [YOU] Why do you keep saying that I'm fat? Why not let the coach decide?";
-    text[19] = "&gt; [MESSAGE] Kevin: Come on, you don't need to coach for that!";
+    text[19] = "&gt; [MESSAGE] Kevin: Come on, you don't need the coach for that!";
     text[20] = "&gt; [MESSAGE] Kevin: The scale can save you some time.";
     text[21] = "&gt; [MESSAGE] Mike: HOLY SH*T!";
     text[22] = "&gt; [MESSAGE] Wendy: That's enough Kevin! You've taken it too far!";

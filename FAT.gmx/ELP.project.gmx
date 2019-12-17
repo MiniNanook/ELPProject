@@ -13,7 +13,56 @@
     <sound>sound\snd_text</sound>
     <sound>sound\snd_start</sound>
   </sounds>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprites name="HD_ASSETS">
+      <sprites name="BEDROOM">
+        <sprites name="CHARACTER">
+          <sprite>sprites\spr_HD_character_walk_up</sprite>
+          <sprite>sprites\spr_HD_character_walk_up_BW</sprite>
+          <sprite>sprites\spr_HD_character_walk_down</sprite>
+          <sprite>sprites\spr_HD_character_walk_down_BW</sprite>
+          <sprite>sprites\spr_HD_character_walk_left</sprite>
+          <sprite>sprites\spr_HD_character_walk_left_BW</sprite>
+          <sprite>sprites\spr_HD_character_walk_right</sprite>
+          <sprite>sprites\spr_HD_character_walk_right_BW</sprite>
+        </sprites>
+        <sprites name="FURNITURE">
+          <sprite>sprites\spr_blue_armchair</sprite>
+          <sprite>sprites\spr_blue_sofa</sprite>
+          <sprite>sprites\spr_desk</sprite>
+          <sprite>sprites\spr_pc</sprite>
+          <sprite>sprites\spr_dresser</sprite>
+          <sprite>sprites\spr_dresser_drawer</sprite>
+          <sprite>sprites\spr_plant</sprite>
+          <sprite>sprites\spr_shelf</sprite>
+          <sprite>sprites\spr_shelf_items</sprite>
+          <sprite>sprites\spr_speaker</sprite>
+          <sprite>sprites\spr_tall_lamp</sprite>
+          <sprite>sprites\spr_speaker_sub</sprite>
+          <sprite>sprites\spr_table</sprite>
+          <sprite>sprites\spr_trashcan</sprite>
+          <sprite>sprites\spr_tv</sprite>
+          <sprite>sprites\spr_armchair</sprite>
+          <sprite>sprites\spr_sofa</sprite>
+          <sprite>sprites\spr_bed</sprite>
+          <sprite>sprites\spr_pillow</sprite>
+          <sprite>sprites\spr_floor</sprite>
+          <sprite>sprites\spr_wall</sprite>
+          <sprite>sprites\spr_window_closed</sprite>
+          <sprite>sprites\spr_window_open</sprite>
+          <sprite>sprites\spr_window</sprite>
+          <sprite>sprites\spr_mirror</sprite>
+        </sprites>
+      </sprites>
+    </sprites>
+    <sprites name="Emotes">
+      <sprite>sprites\spr_hint</sprite>
+    </sprites>
+    <sprite>sprites\spr_mirror_large</sprite>
+    <sprites name="Fades">
+      <sprite>sprites\spr_fade</sprite>
+    </sprites>
+  </sprites>
   <backgrounds name="background">
     <background>background\bg_floor</background>
     <background>background\bg_floor_flipped</background>

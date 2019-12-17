@@ -89,7 +89,7 @@ if (story != "") {
     if (slide == 0) {
         obj_chat.text = "&gt; Booting up...";
         obj_chat.text += "##";
-        obj_chat.text += "&gt; Loggin in...";
+        obj_chat.text += "&gt; Logging in...";
         obj_chat.text += "##";
     } else {
         if (write) {
